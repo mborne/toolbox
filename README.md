@@ -1,7 +1,4 @@
----
-title: 
-
----
+**ARCHIVE** : voir https://mborne.github.io/outils/ (migré dans https://github.com/mborne/mborne.github.io/tree/main/docs/outils)
 
 # mborne/toolbox
 
